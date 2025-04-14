@@ -10,7 +10,7 @@ This project implements a **Siamese Neural Network** for face recognition using 
 - Achieved effective training using binary cross-entropy and the Adam optimizer
 - Includes metrics for **Precision** and **Recall** to evaluate model performance
 
-## ⚙️ How It Works
+## How It Works
 
 1. **Data Preprocessing**  
    Images are resized to 100x100 and normalized between 0 and 1.
